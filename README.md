@@ -35,4 +35,4 @@ you cold use scripts for fast login:
 
 More complicated examples:
 * ./src/ui/_ClientRegisterPrefColorJob.php
-* ./src/ui/_Test735.php [Make sure Client and Admin are registered]
+* ./src/ui/_Test735.php [*Make sure Client and Admin are registered*]
